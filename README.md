@@ -44,11 +44,11 @@ This android application for studying or working with pomodoro technique
 
 
 
-## Screenshots
+## Preview
 
-<img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/main.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/history.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/day.gif" width = 240>
+<img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/main.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/history.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/day.gif" width = 240>
 
-<img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/settings.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/custom_color.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/ringtone.gif" width = 240>
+<img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/settings.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/custom_color.gif" width = 240><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/pomodoro-timer-public/blob/main/gifs/ringtone.gif" width = 240>
 
 
 

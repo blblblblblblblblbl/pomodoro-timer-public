@@ -29,8 +29,6 @@ This android application for studying or working with pomodoro technique
 - multi-module app
 - Coroutines 
 - Flow
-- OOP
-- SOLID
 - Jetpack Compose
 - Jetpack Navigation
 - Material Design 3

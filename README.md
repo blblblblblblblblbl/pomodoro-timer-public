@@ -4,6 +4,8 @@
 
 This android application for studying or working with pomodoro technique
 
+# Google Play
+https://play.google.com/store/apps/details?id=blblblbl.simplelife.pomodorotimer
 
 
 ## Authors
